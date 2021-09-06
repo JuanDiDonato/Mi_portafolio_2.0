@@ -1,0 +1,125 @@
+
+
+/* butom h4 */
+@keyframes carta {
+    from {
+        box-shadow: 0px 0px 0px 0px rgb(255, 125, 102);
+    }
+    to {
+        box-shadow: 0px 1px 8px 0px tomato;
+    }
+}
+
+/* Links */
+@keyframes contac {
+    from {
+        color: white;
+        background-color: rgb(0, 130, 255);
+    }
+    to {
+        background-color: white;
+        color: rgb(0, 110, 255);
+    }
+}
+
+/* instagram*/
+@keyframes instagram {
+    from {
+        color:#F27121; 
+        box-shadow: 0px 2px 8px 0px #F27121;
+    }
+
+    50%{
+        color: rgb(233, 64, 87);
+        box-shadow: 0px 3px 8px 0px #E94057;
+    }
+
+    75%{
+        color: #8A2387;
+        box-shadow: 0px 4px 8px 0px #8A2387;
+    }
+
+    to {
+        box-shadow: 0px 3px 8px 0px #F27121; 
+        color:  #F27121;
+    }
+}
+
+/*telegram*/
+@keyframes telegram{
+    to{
+        color: #0083B0;
+        box-shadow: 0px 2px 8px 0px #00B4DB;
+    }
+    50%{
+        color: #00B4DB;
+        box-shadow: 2px 5px 8px 0px #00B4DB ;
+    }
+    from{
+        color: #0083B0;
+        box-shadow: 0px 2px 8px 0px #00B4DB;
+    }
+}
+
+/*github*/
+@keyframes github{
+    to{
+        color: #000000;
+        box-shadow: 0px 2px 8px 0px #000000;
+    }
+    50%{
+        color: #535353;
+        box-shadow: 2px 3px 8px 0px #535353;
+    }
+    from{
+        color: #000000;
+        box-shadow: 0px 2px 8px 0px #000000;
+    }
+}
+
+/*linkedin*/
+@keyframes linkedin{
+    to{
+        color: #373B44;
+        box-shadow: 0px 2px 8px 0px #373B44;
+    }
+    50%{
+        color: #4286f4;
+        box-shadow: 2px 5px 8px 0px #4286f4 ;
+    }
+    from{
+        color: #373B44;
+        box-shadow: 0px 2px 8px 0px #373B44;
+    }
+}
+
+/*get_code*/
+@keyframes get_code{
+    to{
+        color: rgb(160, 61, 44);
+        box-shadow: 0px 2px 8px 0px rgb(160, 61, 44);
+    }
+    50%{
+        color: tomato;
+        box-shadow: 2px 5px 8px 0px tomato ;
+    }
+    from{
+        color: rgb(160, 61, 44);
+        box-shadow: 0px 2px 8px 0px rgb(160, 61, 44);
+    }
+}
+
+/*burbujas*/
+@keyframes burbujas{
+    0%{
+        bottom: 0;
+        opacity: 0.1;
+    }
+    50%{
+        opacity: 0.4;
+    }
+    100%{
+        bottom: 100vh;
+        opacity: 0;
+    }
+}
