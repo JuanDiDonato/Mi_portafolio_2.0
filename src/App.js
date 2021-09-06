@@ -15,7 +15,7 @@ function App() {
     <div className="App">
       <Router>
         <Header/>
-        <Route exact path ='/' component={Home}></Route>
+        <Route exact path ='/Mi_portafolio_2.0' component={Home}></Route>
         <Route exact path ='/projects' component={Projects}></Route>
         <Route exact path ='/skills' component={Skils}></Route>
         <Route exact path ='/info' component={Info}></Route>

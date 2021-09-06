@@ -12,7 +12,7 @@ export default function Header() {
                     <h3><i>Desarrollador profesional junior</i></h3>
                 </div>
                 <div className="menu desc">
-                <div className="butom"><Link to='/'>Inicio</Link></div>
+                <div className="butom"><Link to='/Mi_portafolio_2.0'>Inicio</Link></div>
                 <div className="butom"><Link to='/projects'>Trabajos</Link></div>
                 <div className="butom"><Link to='/skills'>Habilidades</Link></div>
             </div>
