@@ -32,7 +32,7 @@ export default function Skils() {
                         </div>
                         <div>
                             <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum fuga debitis sint. Delectus assumenda illum velit ea error sequi veritatis dolorum eius, alias unde neque vel dignissimos dolores facere ullam?
+                            Es de los lenguajes que mas uso. Todos los backends de los proyectos que hice estan hechos con Python. Me siento comodo utilizando este lenguaje.
                             </p>
                         </div>
                     </div>
@@ -45,7 +45,7 @@ export default function Skils() {
                     </div>
                     <div>
                         <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum fuga debitis sint. Delectus assumenda illum velit ea error sequi veritatis dolorum eius, alias unde neque vel dignissimos dolores facere ullam?
+                            El modulo de Flask es muy practico. Es minimalista y rapido, por eso aprendi a utilizarlo. Gracias a este modulo pude implemetar el sistema de tokens JWT (Json Web Tokens), utilizando Flask-JWT-Extended.
                         </p>
                     </div>
                 </div>
@@ -58,7 +58,7 @@ export default function Skils() {
                     </div>
                     <div>
                         <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum fuga debitis sint. Delectus assumenda illum velit ea error sequi veritatis dolorum eius, alias unde neque vel dignissimos dolores facere ullam?
+                            Es el primer lenguaje que aprendi, y que sigo utilizando hasta hoy en dia.
                         </p>
                     </div>
                 </div>
@@ -71,7 +71,7 @@ export default function Skils() {
                         </div>
                         <div>
                             <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum fuga debitis sint. Delectus assumenda illum velit ea error sequi veritatis dolorum eius, alias unde neque vel dignissimos dolores facere ullam?
+                                Me gusta trabajar mis propios estilos. Css te da muchas herramientas para crear y darle una buena apariencia a la web!.
                             </p>
                         </div>
                     </div>
@@ -84,7 +84,7 @@ export default function Skils() {
                         </div>
                         <div>
                             <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum fuga debitis sint. Delectus assumenda illum velit ea error sequi veritatis dolorum eius, alias unde neque vel dignissimos dolores facere ullam?
+                                Es el tercer lenguaje que aprendi. Lo primero que hice fueron funciones simples (con fines esteticos y funcionales). Luego, empece  a experimentar con React Js.
                             </p>
                         </div>
                     </div>
@@ -97,7 +97,7 @@ export default function Skils() {
                         </div>
                         <div>
                             <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum fuga debitis sint. Delectus assumenda illum velit ea error sequi veritatis dolorum eius, alias unde neque vel dignissimos dolores facere ullam?
+                                Lo uso actualmente para crear paginas y aplicaciones web. Lo elegi luego de probar otros frameworks como  Svelte y Vue Js. Constantemente estoy aprendiendo acerca de su uso.
                             </p>
                         </div>
                     </div>
@@ -110,7 +110,7 @@ export default function Skils() {
                         </div>
                         <div>
                             <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum fuga debitis sint. Delectus assumenda illum velit ea error sequi veritatis dolorum eius, alias unde neque vel dignissimos dolores facere ullam?
+                              Amo Linux. Actualmente lo utilizo como sistema operativo principal. Probe varias distribuciones, desde Ubuntu y sus derivados (Xubuntu, Ubuntu Mate, Lubunut), Debian, Kali Linux, ElementarY OS, y Manjaro MATE (Basada en ArchLinux)
                             </p>
                         </div>
                     </div>
@@ -123,7 +123,7 @@ export default function Skils() {
                         </div>
                         <div>
                             <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum fuga debitis sint. Delectus assumenda illum velit ea error sequi veritatis dolorum eius, alias unde neque vel dignissimos dolores facere ullam?
+                                Desde que aprendi a usarlo me ahorro mucho tiempo. Es muy practico, y mas para trabajar en equipo
                             </p>
                         </div>
                     </div>
@@ -136,7 +136,7 @@ export default function Skils() {
                         </div>
                         <div>
                             <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum fuga debitis sint. Delectus assumenda illum velit ea error sequi veritatis dolorum eius, alias unde neque vel dignissimos dolores facere ullam?
+                                Es la base de datos que suelo usar en los proyectos que hago. Es facil de gestionar con PhpMyAdmin
                             </p>
                         </div>
                     </div>
@@ -149,7 +149,7 @@ export default function Skils() {
                         </div>
                         <div>
                             <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum fuga debitis sint. Delectus assumenda illum velit ea error sequi veritatis dolorum eius, alias unde neque vel dignissimos dolores facere ullam?
+                                Este framework de css lo utilice muchas veces. Ahorra mucho tiempo y permite hacer aplicaciones responsivas de forma sencilla
                             </p>
                         </div>
                     </div>
@@ -163,7 +163,7 @@ export default function Skils() {
                         </div>
                         <div>
                             <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum fuga debitis sint. Delectus assumenda illum velit ea error sequi veritatis dolorum eius, alias unde neque vel dignissimos dolores facere ullam?
+                                Permite trabajar con paquetes de red. Tiene muchas funcionalidades que le dan una gran posibilidad de usos.
                             </p>
                         </div>
                     </div>
@@ -177,7 +177,7 @@ export default function Skils() {
                         </div>
                         <div>
                             <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum fuga debitis sint. Delectus assumenda illum velit ea error sequi veritatis dolorum eius, alias unde neque vel dignissimos dolores facere ullam?
+                                Es la primera base de datos que aprendi a utilizar. Me resulto muy sencillo de aprender.
                             </p>
                         </div>
                     </div>

@@ -21,7 +21,9 @@ export default function Home() {
                             <div className="card_home title left d_left">
                                 <h2>Iniciativa</h2>
                                 <div className='title'>
-                                    <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut hic culpa dicta est nesciunt, pariatur ratione saepe sunt vel ex iure similique officia atque recusandae velit ipsum nihil suscipit quaerat?</h3>
+                                    <h3>Tengo muchas ganas de trabajar y seguir aprendiendo. Constantemente pienso en posibles proyectos que puedan solucionar los problemas cotidianos
+                                        que nos encontramos en la web, y en nuestras aplicaciones diarias!
+                                    </h3>
                                 </div>
                             </div>
                         </div>
@@ -39,7 +41,8 @@ export default function Home() {
                         <div className="card_home title right d_right">
                             <h2>Trabajo en equipo</h2>
                                 <div className="title">
-                                    <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut hic culpa dicta est nesciunt, pariatur ratione saepe sunt vel ex iure similique officia atque recusandae velit ipsum nihil suscipit quaerat?</h3>
+                                    <h3>Me gusta trabajar en equipo con personas apasionadas y comprometidas con la programacion. Cuando tengo una idea,
+                                         me gusta compartirla com mi grupo de trabajo y debatir sobre ella!</h3>
                                 </div>
                             </div>
                         </div>
@@ -51,7 +54,7 @@ export default function Home() {
                         <div className="card_home title left d_left">
                             <h2>Gestion de tiempos</h2>
                                 <div className='title'>
-                                    <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut hic culpa dicta est nesciunt, pariatur ratione saepe sunt vel ex iure similique officia atque recusandae velit ipsum nihil suscipit quaerat?</h3>
+                                    <h3>Soy muy organizado, suelo gestionar bien los tiempos de las actividades que realizo durante el dia. Me gusta definir una "hoja de ruta" con las cosas que tengo que hacer, priorisando actividades importantes.</h3>
                                 </div>
                         </div>
                         </div>
@@ -70,7 +73,7 @@ export default function Home() {
                         <div className="card_home title right d_right">
                             <h2>Motivacion</h2>
                                 <div className="title">
-                                    <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut hic culpa dicta est nesciunt, pariatur ratione saepe sunt vel ex iure similique officia atque recusandae velit ipsum nihil suscipit quaerat?</h3>
+                                    <h3>¡Estoy motivado!. La programacion me encanta, hay mucho por hacer, y por aprender a hacer. Quiero expandir mis horizontes, para hacer proyectos mas grandes, con mejor experiencia de usuario y funciones imnovadoras.</h3>
                                 </div>
                         </div>
                         </div>
@@ -85,9 +88,10 @@ export default function Home() {
                 </div>
                 <div className="title info">
                     <h3>
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam dignissimos facere dolor mollitia! Placeat dolorem perspiciatis maiores, impedit cum vel earum assumenda dolor ad doloribus quam consequuntur omnis. Quae, aliquam.
+                        ¡Me gusta la programacion! Desde agosto de 2021 decidi dedicarme a la programacion.
+                        Pensando en el futuro, tengo objetivos y metas a cumplir!
                     </h3>
-                    <div className="links"><Link to='/info'><h3>¡Contactame!</h3></Link></div>
+                    <div className="links"><Link to='/info'><h3>¡Conoceme!</h3></Link></div>
                 </div>
             </div>
         </div>

@@ -238,7 +238,7 @@
         padding-bottom: 1%;
         display: grid;
         grid-template-columns: 60% 40%;
-        border-bottom: 2px solid rgb(0, 110, 255);
+        border-bottom: 6px solid rgb(0, 110, 255);
         background-color: tomato;
     }
     .inline_right{
@@ -249,7 +249,7 @@
         padding-bottom: 1%;
         display: grid;
         grid-template-columns: 35% 65%;
-        border-bottom: 2px solid rgb(0, 110, 255); 
+        border-bottom: 6px solid rgb(0, 110, 255); 
     }
 
     .d_left{

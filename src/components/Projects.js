@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React from 'react'
 
 export default function Projects() {
 
@@ -20,9 +20,11 @@ export default function Projects() {
                         <div>
                             <div className="desc">
                                 <p>
-                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime iusto voluptas numquam, vel iste eveniet veritatis. Error eaque, illum, quos debitis explicabo, perspiciatis in dolorum ut vel fugit consectetur! Laudantium.
+                                Es una aplicacion de notas. El usuario puede organizar su dia facilmente creando practicas notas, que puede editar y eliminar cuando lo necesite. Debe registrarse para poder utilizarla.
                                 </p>
-                                <div className="butom title"><a href=""></a><h4 >Obtener codigo</h4></div>
+                                <div className="butom title">
+                                    <a href="https://github.com/JuanDiDonato/Notitapps"><h4 >Obtener codigo</h4></a>
+                                </div>
                             </div>
                         </div>
                 </div>
@@ -34,10 +36,10 @@ export default function Projects() {
                     </div>
                     <div className="desc">
                         <p>
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime iusto voluptas numquam, vel iste eveniet veritatis. Error eaque, illum, quos debitis explicabo, perspiciatis in dolorum ut vel fugit consectetur! Laudantium.
+                            O tambien conocido como "Man in the midle". Lo programe como parte de una practica de hackin etico. Para el mismo se utilizo Python y el modulo Scapy.
                         </p>
                     </div>
-                    <div className="butom title"><a href=""></a><h4>Obtener codigo</h4></div>
+                    <div className="butom title"><a className="butom title" href="https://github.com/JuanDiDonato/Man_in_the_midle"><h4>Obtener codigo</h4></a></div>
                 </div>
 
                 {/*API-Python-Coingecko*/}
@@ -47,23 +49,25 @@ export default function Projects() {
                     </div>
                     <div className="desc">
                         <p>
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime iusto voluptas numquam, vel iste eveniet veritatis. Error eaque, illum, quos debitis explicabo, perspiciatis in dolorum ut vel fugit consectetur! Laudantium.
+                            Trabaja con la API de Coingekco. Posee multiples fuinciones que permiten obtener todos los datos de una (o todas) las criptomonedas. Un usuario puede tener su propio
+                            top 10 de criptomonedas, y organizarlas por su valor actual de mercado.
                         </p>
                     </div>
-                    <div className="butom title"><a href=""></a><h4>Obtener codigo</h4></div>
+                    <div className="butom title"><a href="https://github.com/JuanDiDonato/Python-Coingecko"><h4>Obtener codigo</h4></a></div>
                 </div>
 
                 {/*API-Python-JWT*/}
                 <div className="card_proj">
                     <div className='title'>
-                        <h2>API-Python-JWT</h2>
+                        <h2>API-Python-Flask-JWT</h2>
                     </div>
                     <div className="desc">
                         <p>
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime iusto voluptas numquam, vel iste eveniet veritatis. Error eaque, illum, quos debitis explicabo, perspiciatis in dolorum ut vel fugit consectetur! Laudantium.
+                        Es una Api que registra usuarios, y los guarda en una base de datos. Posee las consultas tipicas de crear, editar, y borrar datos, grupalmente o por id.
+                        Utiliza SQLite3, aunque en mi Github hay otra Api que funciona igual, pero con MySQL.
                         </p>
                     </div>
-                    <div className="butom title"><a href=""></a><h4>Obtener codigo</h4></div>
+                    <div className="butom title"><a href="https://github.com/JuanDiDonato/API-Python3-Flask-SQLITE"><h4>Obtener codigo</h4></a></div>
                 </div>
 
                 {/*Reproductor*/}
@@ -73,10 +77,10 @@ export default function Projects() {
                     </div>
                     <div className="desc">
                         <p>
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime iusto voluptas numquam, vel iste eveniet veritatis. Error eaque, illum, quos debitis explicabo, perspiciatis in dolorum ut vel fugit consectetur! Laudantium.
+                        Es un reproductor de sonido multiplataforma, funciona perfectamente en Windows, MacOS y Windows. Esta programado con Python y utiliza el modulo "Pygame", y la biblioteca TKinter para la interfaz.
                         </p>
                     </div>
-                    <div className="butom title"><a href=""></a><h4>Obtener codigo</h4></div>
+                    <div className="butom title"><a href="https://github.com/JuanDiDonato/Reproductor"><h4>Obtener codigo</h4></a></div>
                 </div>
 
                 {/*Proclean*/}
@@ -86,10 +90,10 @@ export default function Projects() {
                     </div>
                     <div className="desc">
                         <p>
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime iusto voluptas numquam, vel iste eveniet veritatis. Error eaque, illum, quos debitis explicabo, perspiciatis in dolorum ut vel fugit consectetur! Laudantium.
+                        Fue un proyecto en colaboracion con Francisco Medina,en el que realice las vistas de la aplicacion, y sus funcionalidades, aplicando porprimera vez metodologias agiles como SCRUM
                         </p>
                     </div>
-                    <div className="butom title"><a href=""></a><h4>Obtener codigo</h4></div>
+                    <div className="butom title"><a href="https://github.com/JuanDiDonato/proclean"><h4>Obtener codigo</h4></a></div>
                 </div>
 
             </div>
