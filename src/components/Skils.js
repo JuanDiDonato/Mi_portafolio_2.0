@@ -149,7 +149,7 @@ export default function Skils() {
                         </div>
                         <div>
                             <p>
-                                Este framework de css lo utilice muchas veces. Ahorra mucho tiempo y permite hacer aplicaciones responsivas de forma sencilla
+                                Este framework de css lo utilice muchas veces. Ahorra mucho tiempo y permite hacer aplicaciones web y paginas web adaptables a varios tipos de dispositivos de forma sencilla.
                             </p>
                         </div>
                     </div>

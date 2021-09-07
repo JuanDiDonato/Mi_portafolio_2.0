@@ -49,7 +49,7 @@ export default function Projects() {
                     </div>
                     <div className="desc">
                         <p>
-                            Trabaja con la API de Coingekco. Posee multiples fuinciones que permiten obtener todos los datos de una (o todas) las criptomonedas. Un usuario puede tener su propio
+                            Trabaja con la API de Coingekco. Posee multiples funciones que permiten obtener todos los datos de una (o todas) las criptomonedas. Un usuario puede tener su propio
                             top 10 de criptomonedas, y organizarlas por su valor actual de mercado.
                         </p>
                     </div>
@@ -90,7 +90,7 @@ export default function Projects() {
                     </div>
                     <div className="desc">
                         <p>
-                        Fue un proyecto en colaboracion con Francisco Medina,en el que realice las vistas de la aplicacion, y sus funcionalidades, aplicando porprimera vez metodologias agiles como SCRUM
+                        Fue un proyecto en colaboracion con Francisco Medina, en el que realice las vistas de la aplicacion, y sus funcionalidades, aplicando por primera vez metodologias agiles como SCRUM
                         </p>
                     </div>
                     <div className="butom title"><a href="https://github.com/JuanDiDonato/proclean"><h4>Obtener codigo</h4></a></div>

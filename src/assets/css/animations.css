@@ -1,5 +1,4 @@
 
-
 /* butom h4 */
 @keyframes carta {
     from {
@@ -109,7 +108,7 @@
     }
 }
 
-/*burbujas*/
+/* burbujas
 @keyframes burbujas{
     0%{
         bottom: 0;
@@ -122,4 +121,4 @@
         bottom: 100vh;
         opacity: 0;
     }
-}
+} */
