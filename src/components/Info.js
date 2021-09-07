@@ -54,16 +54,16 @@ export default function Info() {
             {/*Enlaces*/}
             <div className="enlaces">
                 <div className="title links_social instagram">
-                    <a href="https://www.instagram.com/juan_didonato/?hl=es-la"><h3>Instagram</h3></a>
+                    <a href="https://www.instagram.com/juan_didonato/?hl=es-la" target="null"><h3>Instagram</h3></a>
                 </div>
                 <div className="title links_social telegram">
-                    <a href="https://t.me/Juan_didonato"><h3>Telegram</h3></a>
+                    <a href="https://t.me/Juan_didonato" target="null"><h3>Telegram</h3></a>
                 </div>
                 <div className="title links_social github">
-                    <a href="https://github.com/JuanDiDonato"><h3>Github</h3></a>
+                    <a href="https://github.com/JuanDiDonato" target="null"><h3>Github</h3></a>
                 </div>
                 <div className="title links_social linkedin">
-                    <a href="https://www.linkedin.com/in/juandidonato/"><h3>Linkedin</h3></a>
+                    <a href="https://www.linkedin.com/in/juandidonato/" target="null"><h3>Linkedin</h3></a>
                 </div>
             </div>
 

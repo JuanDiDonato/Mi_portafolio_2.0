@@ -23,7 +23,7 @@ export default function Projects() {
                                 Es una aplicacion de notas. El usuario puede organizar su dia facilmente creando practicas notas, que puede editar y eliminar cuando lo necesite. Debe registrarse para poder utilizarla.
                                 </p>
                                 <div className="butom title">
-                                    <a href="https://github.com/JuanDiDonato/Notitapps"><h4 >Obtener codigo</h4></a>
+                                    <a href="https://github.com/JuanDiDonato/Notitapps" target="null"><h4 >Obtener codigo</h4></a>
                                 </div>
                             </div>
                         </div>
@@ -39,7 +39,7 @@ export default function Projects() {
                             O tambien conocido como "Man in the midle". Lo programe como parte de una practica de hackin etico. Para el mismo se utilizo Python y el modulo Scapy.
                         </p>
                     </div>
-                    <div className="butom title"><a className="butom title" href="https://github.com/JuanDiDonato/Man_in_the_midle"><h4>Obtener codigo</h4></a></div>
+                    <div className="butom title"><a className="butom title" href="https://github.com/JuanDiDonato/Man_in_the_midle" target="null"><h4>Obtener codigo</h4></a></div>
                 </div>
 
                 {/*API-Python-Coingecko*/}
@@ -53,7 +53,7 @@ export default function Projects() {
                             top 10 de criptomonedas, y organizarlas por su valor actual de mercado.
                         </p>
                     </div>
-                    <div className="butom title"><a href="https://github.com/JuanDiDonato/Python-Coingecko"><h4>Obtener codigo</h4></a></div>
+                    <div className="butom title"><a href="https://github.com/JuanDiDonato/Python-Coingecko" target="null"><h4>Obtener codigo</h4></a></div>
                 </div>
 
                 {/*API-Python-JWT*/}
@@ -67,7 +67,7 @@ export default function Projects() {
                         Utiliza SQLite3, aunque en mi Github hay otra Api que funciona igual, pero con MySQL.
                         </p>
                     </div>
-                    <div className="butom title"><a href="https://github.com/JuanDiDonato/API-Python3-Flask-SQLITE"><h4>Obtener codigo</h4></a></div>
+                    <div className="butom title"><a href="https://github.com/JuanDiDonato/API-Python3-Flask-SQLITE" target="null"><h4>Obtener codigo</h4></a></div>
                 </div>
 
                 {/*Reproductor*/}
@@ -80,7 +80,7 @@ export default function Projects() {
                         Es un reproductor de sonido multiplataforma, funciona perfectamente en Windows, MacOS y Windows. Esta programado con Python y utiliza el modulo "Pygame", y la biblioteca TKinter para la interfaz.
                         </p>
                     </div>
-                    <div className="butom title"><a href="https://github.com/JuanDiDonato/Reproductor"><h4>Obtener codigo</h4></a></div>
+                    <div className="butom title"><a href="https://github.com/JuanDiDonato/Reproductor" target="null"><h4>Obtener codigo</h4></a></div>
                 </div>
 
                 {/*Proclean*/}
@@ -93,7 +93,7 @@ export default function Projects() {
                         Fue un proyecto en colaboracion con Francisco Medina, en el que realice las vistas de la aplicacion, y sus funcionalidades, aplicando por primera vez metodologias agiles como SCRUM
                         </p>
                     </div>
-                    <div className="butom title"><a href="https://github.com/JuanDiDonato/proclean"><h4>Obtener codigo</h4></a></div>
+                    <div className="butom title"><a href="https://github.com/JuanDiDonato/proclean" target="null"><h4>Obtener codigo</h4></a></div>
                 </div>
 
             </div>
