@@ -5,7 +5,7 @@ export default function Projects() {
 
 
     return (
-        <div className="center ">
+        <div className="center">
             <div className="card_header desc">
                 <h3>Estos son algunos proyectos que realice desde que estoy programando. ¡Estan subidos a GitHub!</h3>
             </div>
@@ -24,6 +24,41 @@ export default function Projects() {
                                 </p>
                                 <div className="butom title">
                                     <a href="https://github.com/JuanDiDonato/Notitapps" target="null"><h4 >Obtener codigo</h4></a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+
+                {/*Api-Node-Coingecko*/}
+                <div className="card_proj">
+                        <div className='title'>
+                            <h2>Criptomonedas</h2>
+                        </div>
+                        <div>
+                            <div className="desc">
+                                <p>
+                               Es una aplicacion web donde el usuario, luego de registrarse, puede buscar todas las criptomonedas, guardarlas como favoritas, y obtener mucha informacion relevante sobre las mismas, incluido graficos, hechos con Chart.js
+                                </p>
+                                <div className="butom title">
+                                    <a href="https://github.com/JuanDiDonato/Api-Node-Coingekco" target="null"><h4 >Obtener codigo</h4></a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+
+                {/*Api-Node-Express*/}
+                <div className="card_proj">
+                        <div className='title'>
+                            <h2>Api-Rest-Node</h2>
+                        </div>
+                        <div>
+                            <div className="desc">
+                                <p>
+                                Es una Api que registra usuarios, y los guarda en una base de datos. Posee las consultas tipicas de crear, editar, y borrar datos, grupalmente o por id.
+                                Utiliza Express y MySQL.
+                                </p>
+                                <div className="butom title">
+                                    <a href="https://github.com/JuanDiDonato/Api-Node-Coingekco" target="null"><h4 >Obtener codigo</h4></a>
                                 </div>
                             </div>
                         </div>

@@ -10,7 +10,7 @@ import mysql from '../assets/img/mysql.png'
 import git from '../assets/img/git.png'
 import bs from '../assets/img/bs.png'
 import tux from '../assets/img/tux.png'
-import scapy from '../assets/img/scapy.png'
+import node from '../assets/img/node.png'
 import sqlite from '../assets/img/sqlite.png'
 
 
@@ -24,6 +24,19 @@ export default function Skils() {
             </div>
 
             <div className="grid_skills desc">   
+
+                <div className="card">
+                    <div>
+                        <div className="title">
+                            <img src={node}/>
+                        </div>
+                        <div>
+                            <p>
+                                Lo utilizo para trabajar con React js, en conjunto con Express, y JWT
+                            </p>
+                        </div>
+                    </div>
+                </div> 
 
                 <div className="card">
                     <div>
@@ -154,21 +167,6 @@ export default function Skils() {
                         </div>
                     </div>
                 </div>
-
-
-                <div className="card">
-                    <div>
-                        <div className="title">
-                            <img src={scapy}/>
-                        </div>
-                        <div>
-                            <p>
-                                Permite trabajar con paquetes de red. Tiene muchas funcionalidades que le dan una gran posibilidad de usos.
-                            </p>
-                        </div>
-                    </div>
-                </div> 
-
 
                 <div className="card">
                     <div>
