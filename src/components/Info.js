@@ -3,15 +3,21 @@ import React from 'react'
 export default function Info() {
     return (
         <div className="center">
-            {/*Sobre mi*/}
-            <div className="card_proj">
+                {/*Sobre mi*/}
+                <div className="card_proj margin">
                         <div className='title'>
                             <h2>Sobre mi</h2>
                         </div>
                         <div>
                             <div className="desc">
                                 <p>
-                                Me recibi de Tecnico Maestro Mayor de Obras en la E.E.S.T Nº3 (Tecnica 3) en el 2019. Luego de recibirme, me anote en Arquitectura y en Ing.Naval, en la UTN. Decidi cursar esta ultima. Ingrese en el 2020 y realice mi primer año de forma virtual. Curse 8 materias y pude aprobarlas. En mi segundo año en la universidad me di cuenta que no era la carrera que me apasionaba.
+                                Me recibi de Tecnico Maestro Mayor de Obras en la E.E.S.T Nº3 (Tecnica 3) en el 2019. 
+                                Luego de recibirme,investigue varias carreras, y me anote en Ing Naval en la UTN. 
+                                Ingrese en el 2020 y realice mi primer año de forma virtual, 
+                                al mismo tiempo que continue aprendiendo de programacion.
+                                Una de las materias que curse fue Fundamentos de Informatica, que me atrapo por completo, y fue en este
+                                punto cuando decidi hacer de la programacion mi futuro, mas que un pasatiempo.
+                                
                                 </p>
                             </div>
                         </div>
@@ -24,7 +30,11 @@ export default function Info() {
                     </div>
                     <div className="desc">
                         <p>
-                        Cuando no estoy programando, en mis tiempos libres, me gusta hacer actividad fisica, caminar y andar en bici. Soy aficionado al ciclismo, me gusta hacer viajes largos, y arreglar mi propia bici cuando es necesario. Espero algun dia tener una bici de carretera, y hacer grandes travesias!. Tambien, de vez en cuando, juego con amigos en linea para pasar el rato
+                        Cuando no estoy programando, en mis tiempos libres, me gusta hacer actividad fisica, 
+                        caminar y andar en bici. Soy aficionado al ciclismo, me gusta hacer viajes largos, 
+                        y arreglar mi propia bici cuando es necesario (lo que pasa bastante seguido :V).
+                        Espero algun dia tener una bici de carretera, y hacer grandes travesias!. 
+                        Tambien, de vez en cuando, juego con amigos en linea para pasar el rato
                         </p>
                     </div>
                 </div>
@@ -36,7 +46,11 @@ export default function Info() {
                     </div>
                     <div className="desc">
                         <p>
-                        A corto plazo quiero aprender todo lo posible de Python y JavaScript, que son los lenguajes que estoy usando, y conseguir un trabajo. A mediano plazo, mi objetivo es irme a estudiar Ingenieria en Sistemas a la UNICEN, en Tandil, donde espero obtener una beca para costear mis estudios, gracias a mi promedio en la UTN. En un futuro, mi meta es trabajar y seguir aprendiendo, la programacion, y la informatica en general es muy amplia, ¡hay mucho para aprender y crear!
+                        A corto plazo quiero continuar aprendiendo todo lo posible de JavaScript y Node JS.
+                        A futuro me gustaria adentrarme en otras areas, como la Cibersegurad, Testing 
+                        y la Inteligencia Artifial.
+                        Me intereza conseguir un empleo para continuar desarrollando mis capacidades, e ingresar a 
+                        Ingenieria Informatica.
                         </p>
                     </div>
                 </div>

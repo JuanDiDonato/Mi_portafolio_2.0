@@ -112,12 +112,10 @@
     0%{
         box-shadow: 1px 1px 5px 1px rgb(0, 47, 94);
     }
-    50%{
-        box-shadow: 4px 4px 8px 1px rgb(0, 47, 94);
-    }
     100%{
-        box-shadow: 1px 1px 5px 1px rgb(0, 47, 94);
+        box-shadow: 2px 2px 8px 1px rgb(0, 47, 94);
     }
+
 }
 
 

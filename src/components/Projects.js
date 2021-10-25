@@ -6,11 +6,50 @@ export default function Projects() {
 
     return (
         <div className="center">
-            <div className="card_header desc">
+            <div className="card_header desc margin">
                 <h3>Estos son algunos proyectos que realice desde que estoy programando. ¡Estan subidos a GitHub!</h3>
             </div>
 
             <div className="projects">
+
+                {/*E-Commerce*/}
+                <div className="card_proj">
+                        <div className='title'>
+                            <h2>E-Commerce</h2>
+                        </div>
+                        <div>
+                            <div className="desc">
+                                <p>
+                                    El proyecto comenzo con la idea de crear una plataforma online donde los emprendedores
+                                    de pequeños negocios puedan mostrar y vender sus productos. Cuenta con funciones como la posibilidad de 
+                                    crear publicaciones subiendo fotos, definir y planificar ofertas, ver estadisticas de ventas y recaudacion,
+                                    entre otras. Los clientes pueden abonar con tarjeta gracias a la API de Mercado Pago.
+
+                                </p>
+                                <div className="butom title">
+                                    <a href="https://github.com/JuanDiDonato/E-Commerce" target="null"><h4 >Obtener codigo</h4></a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+
+                {/*Lo de pochi sublimaciones*/}
+                <div className="card_proj">
+                        <div className='title'>
+                            <h2>Lo de Pochi- Sublimaciones</h2>
+                        </div>
+                        <div>
+                            <div className="desc">
+                                <p>
+                                    Es una pagina web realizada para una emprendedora, en colaboracion con Francisco Medina. La pagina muestra los productos
+                                    /trabajos que ofrece, gracias a la API de Instagram
+                                </p>
+                                <div className="butom title">
+                                    <a href="https://github.com/franmedi99/lodepochi-sublimaciones" target="null"><h4 >Obtener codigo</h4></a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
 
                 {/*Notitapps*/}
                 <div className="card_proj">
@@ -32,12 +71,15 @@ export default function Projects() {
                 {/*Api-Node-Coingecko*/}
                 <div className="card_proj">
                         <div className='title'>
-                            <h2>Criptomonedas</h2>
+                            <h2>Node-Coingecko</h2>
                         </div>
                         <div>
                             <div className="desc">
                                 <p>
-                               Es una aplicacion web donde el usuario, luego de registrarse, puede buscar todas las criptomonedas, guardarlas como favoritas, y obtener mucha informacion relevante sobre las mismas, incluido graficos, hechos con Chart.js
+                                Es una aplicacion web donde el usuario, luego de registrarse,
+                                puede buscar todas las criptomonedas, guardarlas como favoritas, y obtener mucha informacion
+                                relevante sobre las mismas, incluido graficos, hechos con Chart.js, y pose funcionalidad
+                                Drag and Drop.
                                 </p>
                                 <div className="butom title">
                                     <a href="https://github.com/JuanDiDonato/Api-Node-Coingekco" target="null"><h4 >Obtener codigo</h4></a>
