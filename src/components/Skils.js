@@ -59,7 +59,7 @@ export default function Skils() {
                 <div className="card">
                     <div>
                         <div className="title">
-                            <img src={node}/>
+                            <img src={node} alt="node"/>
                         </div>
                         <div>
                             <p>
@@ -74,7 +74,7 @@ export default function Skils() {
                 <div className="card">
                     <div>
                         <div className="title">
-                            <img src={js}/>
+                            <img src={js} alt="javaScript"/>
                         </div>
                         <div>
                             <p>
@@ -88,7 +88,7 @@ export default function Skils() {
                 <div className="card">
                     <div>
                         <div className="title">
-                            <img src={python}/>
+                            <img src={python} alt="python"/>
                         </div>
                         <div>
                             <p> 
@@ -103,7 +103,7 @@ export default function Skils() {
                 <div className="card">
                 <div>
                     <div className="title">
-                        <img src={flask}/>
+                        <img src={flask} alt="flask"/>
                     </div>
                     <div>
                         <p>
@@ -117,7 +117,7 @@ export default function Skils() {
                 <div className="card">
                 <div>
                     <div className="title">
-                        <img src={html}/>
+                        <img src={html} alt="html5"/>
                     </div>
                     <div>
                         <p>
@@ -131,7 +131,7 @@ export default function Skils() {
                 <div className="card">
                     <div>
                         <div className="title">
-                            <img src={css}/>
+                            <img src={css} alt="css3"/>
                         </div>
                         <div>
                             <p>
@@ -146,7 +146,7 @@ export default function Skils() {
                 <div className="card">
                     <div>
                         <div className="title">
-                            <img src={react}/>
+                            <img src={react} alt="reactjs"/>
                         </div>
                         <div>
                             <p>
@@ -161,7 +161,7 @@ export default function Skils() {
                 <div className="card">
                     <div>
                         <div className="title">
-                            <img src={tux}/>
+                            <img src={tux} alt="Linux"/>
                         </div>
                         <div>
                             <p>
@@ -177,7 +177,7 @@ export default function Skils() {
                 <div className="card">
                     <div >
                         <div className="title">
-                            <img src={git}/>
+                            <img src={git} alt="git"/>
                         </div>
                         <div>
                             <p>
@@ -191,7 +191,7 @@ export default function Skils() {
                 <div className="card">
                     <div>
                         <div className="title">
-                            <img src={mysql}/>
+                            <img src={mysql} alt="MySQL"/>
                         </div>
                         <div>
                             <p>
@@ -205,7 +205,7 @@ export default function Skils() {
                 <div className="card">
                     <div>
                         <div className="title">
-                            <img src={bs}/>
+                            <img src={bs} alt="Bootstrap"/>
                         </div>
                         <div>
                             <p>
@@ -220,7 +220,7 @@ export default function Skils() {
                 <div className="card">
                     <div>
                         <div className="title">
-                            <img src={sqlite}/>
+                            <img src={sqlite} alt="sqlite3"/>
                         </div>
                         <div>
                             <p>

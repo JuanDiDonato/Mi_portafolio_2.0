@@ -141,6 +141,7 @@ body{
 .card_home h2{
     padding-bottom: 5%;
     border-bottom: 1px solid tomato;
+    color: rgb(98, 161, 255);
 }
 .card_home h4{
     border: 1px solid tomato;
@@ -299,6 +300,9 @@ body{
         color: tomato;
     }
     /*home*/
+    .card_home h2{
+        color: rgb(255, 255, 255);
+    }
 
     .inline_left{
         margin-top: 0%;

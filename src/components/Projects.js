@@ -7,7 +7,9 @@ export default function Projects() {
     return (
         <div className="center">
             <div className="card_header desc margin">
-                <h3>Estos son algunos proyectos que realice desde que estoy programando. ¡Estan subidos a GitHub!</h3>
+                <h3>Estos son algunos proyectos que realice desde que estoy programando. 
+                    ¡Estan subidos a GitHub!
+                </h3>
             </div>
 
             <div className="projects">
@@ -20,10 +22,13 @@ export default function Projects() {
                         <div>
                             <div className="desc">
                                 <p>
-                                    El proyecto comenzo con la idea de crear una plataforma online donde los emprendedores
-                                    de pequeños negocios puedan mostrar y vender sus productos. Cuenta con funciones como la posibilidad de 
-                                    crear publicaciones subiendo fotos, definir y planificar ofertas, ver estadisticas de ventas y recaudacion,
-                                    entre otras. Los clientes pueden abonar con tarjeta gracias a la API de Mercado Pago.
+                                    El proyecto comenzo con la idea de crear una plataforma online 
+                                    donde los emprendedores de pequeños negocios puedan mostrar y vender 
+                                    sus productos. Cuenta con funciones como la posibilidad de 
+                                    crear publicaciones subiendo fotos, definir y planificar ofertas,
+                                    ver estadisticas de ventas y recaudacion,
+                                    entre otras. Los clientes pueden abonar con tarjeta gracias a la API 
+                                    de Mercado Pago.
 
                                 </p>
                                 <div className="butom title">
@@ -41,8 +46,9 @@ export default function Projects() {
                         <div>
                             <div className="desc">
                                 <p>
-                                    Es una pagina web realizada para una emprendedora, en colaboracion con Francisco Medina. La pagina muestra los productos
-                                    /trabajos que ofrece, gracias a la API de Instagram
+                                    Es una pagina web realizada para una emprendedora,
+                                     en colaboracion con Francisco Medina. La pagina muestra los 
+                                     productos/trabajos que ofrece, gracias a la API de Instagram
                                 </p>
                                 <div className="butom title">
                                     <a href="https://github.com/franmedi99/lodepochi-sublimaciones" target="null"><h4 >Obtener codigo</h4></a>
@@ -59,7 +65,10 @@ export default function Projects() {
                         <div>
                             <div className="desc">
                                 <p>
-                                Es una aplicacion de notas. El usuario puede organizar su dia facilmente creando practicas notas, que puede editar y eliminar cuando lo necesite. Debe registrarse para poder utilizarla.
+                                Es una aplicacion de notas. 
+                                El usuario puede organizar su dia facilmente creando practicas notas, 
+                                que puede editar y eliminar cuando lo necesite. 
+                                Debe registrarse para poder utilizarla.
                                 </p>
                                 <div className="butom title">
                                     <a href="https://github.com/JuanDiDonato/Notitapps" target="null"><h4 >Obtener codigo</h4></a>
@@ -77,8 +86,10 @@ export default function Projects() {
                             <div className="desc">
                                 <p>
                                 Es una aplicacion web donde el usuario, luego de registrarse,
-                                puede buscar todas las criptomonedas, guardarlas como favoritas, y obtener mucha informacion
-                                relevante sobre las mismas, incluido graficos, hechos con Chart.js, y pose funcionalidad
+                                puede buscar todas las criptomonedas, guardarlas como favoritas, 
+                                y obtener mucha informacion
+                                relevante sobre las mismas, incluido graficos, hechos con Chart.js,
+                                y pose funcionalidad
                                 Drag and Drop.
                                 </p>
                                 <div className="butom title">
@@ -96,7 +107,9 @@ export default function Projects() {
                         <div>
                             <div className="desc">
                                 <p>
-                                Es una Api que registra usuarios, y los guarda en una base de datos. Posee las consultas tipicas de crear, editar, y borrar datos, grupalmente o por id.
+                                Es una Api que registra usuarios, y los guarda en una base de datos. 
+                                Posee las consultas tipicas de crear, editar, y borrar datos, 
+                                grupalmente o por id.
                                 Utiliza Express y MySQL.
                                 </p>
                                 <div className="butom title">
@@ -113,7 +126,9 @@ export default function Projects() {
                     </div>
                     <div className="desc">
                         <p>
-                            O tambien conocido como "Man in the midle". Lo programe como parte de una practica de hackin etico. Para el mismo se utilizo Python y el modulo Scapy.
+                            O tambien conocido como "Man in the midle".
+                            Lo programe como parte de una practica de hackin etico. 
+                            Para el mismo se utilizo Python y el modulo Scapy.
                         </p>
                     </div>
                     <div className="butom title"><a className="butom title" href="https://github.com/JuanDiDonato/Man_in_the_midle" target="null"><h4>Obtener codigo</h4></a></div>
@@ -126,7 +141,9 @@ export default function Projects() {
                     </div>
                     <div className="desc">
                         <p>
-                            Trabaja con la API de Coingekco. Posee multiples funciones que permiten obtener todos los datos de una (o todas) las criptomonedas. Un usuario puede tener su propio
+                            Trabaja con la API de Coingekco. Posee multiples funciones que permiten 
+                            obtener todos los datos de una (o todas) las criptomonedas. 
+                            Un usuario puede tener su propio
                             top 10 de criptomonedas, y organizarlas por su valor actual de mercado.
                         </p>
                     </div>
@@ -154,7 +171,10 @@ export default function Projects() {
                     </div>
                     <div className="desc">
                         <p>
-                        Es un reproductor de sonido multiplataforma, funciona perfectamente en Windows, MacOS y Windows. Esta programado con Python y utiliza el modulo "Pygame", y la biblioteca TKinter para la interfaz.
+                        Es un reproductor de sonido multiplataforma, 
+                        funciona perfectamente en Windows, MacOS y Linux. 
+                        Esta programado con Python y utiliza el modulo "Pygame", 
+                        y la biblioteca TKinter para la interfaz.
                         </p>
                     </div>
                     <div className="butom title"><a href="https://github.com/JuanDiDonato/Reproductor" target="null"><h4>Obtener codigo</h4></a></div>
@@ -167,7 +187,9 @@ export default function Projects() {
                     </div>
                     <div className="desc">
                         <p>
-                        Fue un proyecto en colaboracion con Francisco Medina, en el que realice las vistas de la aplicacion, y sus funcionalidades, aplicando por primera vez metodologias agiles como SCRUM
+                        Fue un proyecto en colaboracion con Francisco Medina,
+                         en el que realice las vistas de la aplicacion, y sus funcionalidades,
+                          aplicando por primera vez metodologias agiles como SCRUM
                         </p>
                     </div>
                     <div className="butom title"><a href="https://github.com/JuanDiDonato/proclean" target="null"><h4>Obtener codigo</h4></a></div>

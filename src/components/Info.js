@@ -60,7 +60,7 @@ export default function Info() {
                     <h2>Estoy por aca :P</h2>
                 </div>
                 <div>
-                <iframe className="map" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12571.116026325375!2d-57.56921081219479!3d-38.02893118291705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2sar!4v1630710869137!5m2!1ses!2sar"></iframe>
+                <iframe className="map" title='map' src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12571.116026325375!2d-57.56921081219479!3d-38.02893118291705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2sar!4v1630710869137!5m2!1ses!2sar"></iframe>
                 </div>
             </div>
             

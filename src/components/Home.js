@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { Link } from 'react-router-dom'
 //IMAGENES Y LOGOS
 import team from '../assets/img/teamwork.png'
