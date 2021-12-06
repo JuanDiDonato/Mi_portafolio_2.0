@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Mi_portafolio_2.0/static/css/main.bdfe1e79.chunk.css",
-    "main.js": "/Mi_portafolio_2.0/static/js/main.4918f8c9.chunk.js",
-    "main.js.map": "/Mi_portafolio_2.0/static/js/main.4918f8c9.chunk.js.map",
+    "main.js": "/Mi_portafolio_2.0/static/js/main.e8c46a8d.chunk.js",
+    "main.js.map": "/Mi_portafolio_2.0/static/js/main.e8c46a8d.chunk.js.map",
     "runtime-main.js": "/Mi_portafolio_2.0/static/js/runtime-main.541e632b.js",
     "runtime-main.js.map": "/Mi_portafolio_2.0/static/js/runtime-main.541e632b.js.map",
     "static/js/2.94527d38.chunk.js": "/Mi_portafolio_2.0/static/js/2.94527d38.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.541e632b.js",
     "static/js/2.94527d38.chunk.js",
     "static/css/main.bdfe1e79.chunk.css",
-    "static/js/main.4918f8c9.chunk.js"
+    "static/js/main.e8c46a8d.chunk.js"
   ]
 }
