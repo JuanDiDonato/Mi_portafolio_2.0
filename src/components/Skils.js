@@ -18,6 +18,8 @@ import instagram from '../assets/img/instagram.png'
 import spotify from '../assets/img/spotify.png'
 import coingecko from '../assets/img/coingecko.png'
 import mercadoPago from '../assets/img/mercadoPago.png'
+import django from '../assets/img/django.png'
+import sequelize from '../assets/img/sequelize.png'
 
 export default function Skils() {
 
@@ -66,6 +68,35 @@ export default function Skils() {
                                 Node js lo utilizo hace tiempo, para crear y utilizar API's, y para 
                                 el desarrollo backend en aplicaciones web. Utilizo el framework de Express,
                                 implementando Json Web Tokens.
+                            </p>
+                        </div>
+                    </div>
+                </div> 
+
+                <div className="card">
+                    <div>
+                        <div className="title">
+                            <img src={sequelize} alt="sequelize"/>
+                        </div>
+                        <div>
+                            <p>
+                                Lo implemente en el ecommerce, es practico y verstail.
+                                Con el, mi codigo quedo mas estructurado, y mejor organizado,
+                                especialmente con las comprobaciones y los esquemas.
+                            </p>
+                        </div>
+                    </div>
+                </div> 
+
+                <div className="card">
+                    <div>
+                        <div className="title">
+                            <img src={django} alt="django"/>
+                        </div>
+                        <div>
+                            <p>
+                                No me agradaba del todo, lo comence a estudiar por lo bien que se habla del framework.
+                                Me resulto muy interezante, con todo lo que trae pre-instalado te ahorras mucho tiempo.
                             </p>
                         </div>
                     </div>
