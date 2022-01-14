@@ -1,5 +1,6 @@
 import React from 'react'
-//LOGOS
+
+// Logos
 import flask from '../assets/img/flask.png'
 import python from '../assets/img/python.png'
 import html from '../assets/img/html.png'
@@ -20,6 +21,9 @@ import coingecko from '../assets/img/coingecko.png'
 import mercadoPago from '../assets/img/mercadoPago.png'
 import django from '../assets/img/django.png'
 import sequelize from '../assets/img/sequelize.png'
+import telegram from '../assets/img/telegram.png'
+import heroku from '../assets/img/heroku.png'
+import docker from '../assets/img/docker.png'
 
 export default function Skils() {
 
@@ -45,11 +49,12 @@ export default function Skils() {
             {/*LOGOS DE API'S*/}
             <div>
                 <img className="logos" src={steam} alt="steam" />
-                <img className="logos" src={discord} alt="steam" />
-                <img className="logos" src={spotify} alt="steam" />
-                <img className="logos" src={instagram} alt="steam" />
-                <img className="logos" src={coingecko} alt="steam" />
-                <img className="logos" src={mercadoPago} alt="steam" />
+                <img className="logos" src={discord} alt="discord" />
+                <img className="logos" src={spotify} alt="spotify" />
+                <img className="logos" src={instagram} alt="instagram" />
+                <img className="logos" src={coingecko} alt="coingecko" />
+                <img className="logos" src={mercadoPago} alt="mercadopago" />
+                <img className="logos" src={telegram} alt="telegram" />
             </div>
 
             <div className="desc card_proj">
@@ -126,6 +131,21 @@ export default function Skils() {
                             Me siento comodo utilizando este lenguaje,
                             se me hizo facil de aprender y
                             lo utilice para varios proyectos.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="card">
+                    <div>
+                        <div className="title">
+                            <img src={docker} alt="docker"/>
+                        </div>
+                        <div>
+                            <p> 
+                                Lo implemente cuando comence a desplegar mis apps en heroku.
+                                Me sorprendio lo sencillo y rapido que fue subir un proyecto 
+                                en un contenedor de docker!.
                             </p>
                         </div>
                     </div>
@@ -257,6 +277,19 @@ export default function Skils() {
                             <p>
                                 Es la primera base de datos que aprendi a utilizar. 
                                 Me resulto muy sencillo de aprender.
+                            </p>
+                        </div>
+                    </div>
+                </div> 
+
+                <div className="card">
+                    <div>
+                        <div className="title">
+                            <img src={heroku} alt="heroku"/>
+                        </div>
+                        <div>
+                            <p>
+                                Es el servicio que utilizo para desplegar mis aplicaciones
                             </p>
                         </div>
                     </div>

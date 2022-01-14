@@ -32,10 +32,43 @@ export default function Projects() {
 
                                 </p>
                                 <div className="butom title">
-                                    <a href="https://github.com/JuanDiDonato/E-Commerce" target="null"><h4 >Obtener codigo</h4></a>
+                                    <a href="https://github.com/JuanDiDonato/E-Commerce" target="null"><h4 >Ver codigo</h4></a>
                                 </div>
                             </div>
                         </div>
+                </div>
+
+                {/*E-Commerce django rest*/}
+                <div className="card_proj">
+                        <div className='title'>
+                            <h2>Backend e-commerce con DJango REST</h2>
+                        </div>
+                        <div>
+                            <div className="desc">
+                                <p>
+                                    Es una version hecha con DJango REST Framework del backend del ecommece.
+                                    Tiene el soporte de pagos con Mercado Pago, JWT, Cookies, etc. 
+                                    Es una version mas planificada y optimizada.
+                                </p>
+                                <div className="butom title">
+                                    <a href="https://github.com/JuanDiDonato/Ecommerce-Backend-DjangoRESTFramework" target="null"><h4 >Ver codigo</h4></a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+
+                {/*Bot de telegram*/}
+                <div className="card_proj">
+                    <div className='title'>
+                        <h2>Bot de Telegram</h2>
+                    </div>
+                    <div className="desc">
+                        <p>
+                        Es un bot que busca en youtube lo que escribas, lo conviert a mp3,
+                        y lo envia como un audio por el chat!
+                        </p>
+                    </div>
+                    <div className="butom title"><a href="https://github.com/JuanDiDonato/Telegram-Bot" target="null"><h4>Ver codigo</h4></a></div>
                 </div>
 
                 {/*Lo de pochi sublimaciones*/}
@@ -51,7 +84,7 @@ export default function Projects() {
                                      productos/trabajos que ofrece, gracias a la API de Instagram
                                 </p>
                                 <div className="butom title">
-                                    <a href="https://github.com/franmedi99/lodepochi-sublimaciones" target="null"><h4 >Obtener codigo</h4></a>
+                                    <a href="https://github.com/franmedi99/lodepochi-sublimaciones" target="null"><h4 >Ver codigo</h4></a>
                                 </div>
                             </div>
                         </div>
@@ -71,7 +104,7 @@ export default function Projects() {
                                 Debe registrarse para poder utilizarla.
                                 </p>
                                 <div className="butom title">
-                                    <a href="https://github.com/JuanDiDonato/Notitapps" target="null"><h4 >Obtener codigo</h4></a>
+                                    <a href="https://github.com/JuanDiDonato/Notitapps" target="null"><h4 >Ver codigo</h4></a>
                                 </div>
                             </div>
                         </div>
@@ -93,7 +126,7 @@ export default function Projects() {
                                 Drag and Drop.
                                 </p>
                                 <div className="butom title">
-                                    <a href="https://github.com/JuanDiDonato/Api-Node-Coingekco" target="null"><h4 >Obtener codigo</h4></a>
+                                    <a href="https://github.com/JuanDiDonato/Api-Node-Coingekco" target="null"><h4 >Ver codigo</h4></a>
                                 </div>
                             </div>
                         </div>
@@ -113,7 +146,7 @@ export default function Projects() {
                                 Utiliza Express y MySQL.
                                 </p>
                                 <div className="butom title">
-                                    <a href="https://github.com/JuanDiDonato/Api-Node-Coingekco" target="null"><h4 >Obtener codigo</h4></a>
+                                    <a href="https://github.com/JuanDiDonato/Api-Node-Coingekco" target="null"><h4 >Ver codigo</h4></a>
                                 </div>
                             </div>
                         </div>
@@ -131,7 +164,7 @@ export default function Projects() {
                             Para el mismo se utilizo Python y el modulo Scapy.
                         </p>
                     </div>
-                    <div className="butom title"><a className="butom title" href="https://github.com/JuanDiDonato/Man_in_the_midle" target="null"><h4>Obtener codigo</h4></a></div>
+                    <div className="butom title"><a className="butom title" href="https://github.com/JuanDiDonato/Man_in_the_midle" target="null"><h4>Ver codigo</h4></a></div>
                 </div>
 
                 {/*API-Python-Coingecko*/}
@@ -147,7 +180,7 @@ export default function Projects() {
                             top 10 de criptomonedas, y organizarlas por su valor actual de mercado.
                         </p>
                     </div>
-                    <div className="butom title"><a href="https://github.com/JuanDiDonato/Python-Coingecko" target="null"><h4>Obtener codigo</h4></a></div>
+                    <div className="butom title"><a href="https://github.com/JuanDiDonato/Python-Coingecko" target="null"><h4>Ver codigo</h4></a></div>
                 </div>
 
                 {/*API-Python-JWT*/}
@@ -161,23 +194,7 @@ export default function Projects() {
                         Utiliza SQLite3, aunque en mi Github hay otra Api que funciona igual, pero con MySQL.
                         </p>
                     </div>
-                    <div className="butom title"><a href="https://github.com/JuanDiDonato/API-Python3-Flask-SQLITE" target="null"><h4>Obtener codigo</h4></a></div>
-                </div>
-
-                {/*Reproductor*/}
-                <div className="card_proj">
-                    <div className='title'>
-                        <h2>Reproductor Python-TKinter</h2>
-                    </div>
-                    <div className="desc">
-                        <p>
-                        Es un reproductor de sonido multiplataforma, 
-                        funciona perfectamente en Windows, MacOS y Linux. 
-                        Esta programado con Python y utiliza el modulo "Pygame", 
-                        y la biblioteca TKinter para la interfaz.
-                        </p>
-                    </div>
-                    <div className="butom title"><a href="https://github.com/JuanDiDonato/Reproductor" target="null"><h4>Obtener codigo</h4></a></div>
+                    <div className="butom title"><a href="https://github.com/JuanDiDonato/API-Python3-Flask-SQLITE" target="null"><h4>Ver codigo</h4></a></div>
                 </div>
 
                 {/*Proclean*/}
@@ -192,7 +209,7 @@ export default function Projects() {
                           aplicando por primera vez metodologias agiles como SCRUM
                         </p>
                     </div>
-                    <div className="butom title"><a href="https://github.com/JuanDiDonato/proclean" target="null"><h4>Obtener codigo</h4></a></div>
+                    <div className="butom title"><a href="https://github.com/JuanDiDonato/proclean" target="null"><h4>Ver codigo</h4></a></div>
                 </div>
 
             </div>

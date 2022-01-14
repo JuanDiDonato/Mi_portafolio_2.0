@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 //CSS
 import '../assets/css/animations.css'
+import '../assets/css/main.css'
 
 export default function Header() {
     return (
